@@ -1,4 +1,6 @@
 <!-- Header with Typing Animation -->
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Aathira;Data+Analytics+Enthusiast;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
 </div>
